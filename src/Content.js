@@ -19,7 +19,8 @@ function Content() {
         <li>Use of Bable and Webpack through Create React App</li>
         <li>Use of git CLI and GitHub repositories</li>
         <li>Use of CSS and images in React environment</li>
-        <li>User of import and export statements</li>
+        <li>Use of import and export statements</li>
+        <li>Use of local server with webpack</li>
       </ol>
     </div>
   );
