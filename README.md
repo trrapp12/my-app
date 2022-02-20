@@ -56,7 +56,13 @@ A basic static page built using React.
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # Getting Started with Create React App
