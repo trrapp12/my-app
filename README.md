@@ -1,7 +1,7 @@
-# Flex Box Photo Portfolio
+# Static page using Create React App
 
 
-##### Contributors: Trevor Rapp
+##### Contributors: Trevor Rapp, Bob Ziroll
 
 ---
 
