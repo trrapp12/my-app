@@ -1,7 +1,8 @@
 # Static page using Create React App
 
+#### Contributors: Trevor Rapp, Bob Ziroll
 
-##### Contributors: Trevor Rapp, Bob Ziroll
+*This project completed as part of an instructor lead course in Scrimba's [Front End Developer Career Path](https://scrimba.com/learn/frontend)*
 
 ---
 
@@ -29,26 +30,42 @@
 
 ### Description:
 
-
----
+> "Life is 10% what happens to you and 90% of how you ReactJS to it.
+>
+>  -- Trevor Rapp
 
 A basic static page built using React. 
 
-### Project v1.0 demonstrates the following:
+<br/>
+
 ---
+
+### PROJECT V1.0 DEMONSTRATES THE FOLLOWING:
 
 - [x] Use of JSX
+      
 - [x] Use of basic syntax and architecture of React
+      
 - [x] Use of parent > child components
+      
 - [x] Use of custom composable, reusable components
+      
 - [x] Use of Bable and Webpack through Create React App
+      
 - [x] Use of git CLI and GitHub repositories
+      
 - [x] Use of CSS and images in React environment
+      
 - [x] Use of import and export statements
+      
 - [x] Use of local server with webpack
 
-### Project published at: 
+<br/>
+
 ---
+
+### Project published at: 
+
 
 [my-app](https://trrapp12.github.io/my-app/)
 
