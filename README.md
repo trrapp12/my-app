@@ -6,11 +6,13 @@
 
 ---
 
-![screenshot-localhost_3000-2022 03 02-18_38_52](https://user-images.githubusercontent.com/11747875/156480170-e6d85dbd-c6c8-4592-a609-907b54e66409.png)
+<br/>
+
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/my-app/)
 
 <br>
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/my-app/)
+![screenshot-localhost_3000-2022 03 02-18_38_52](https://user-images.githubusercontent.com/11747875/156480170-e6d85dbd-c6c8-4592-a609-907b54e66409.png)
 
 <br>
 
@@ -24,8 +26,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<br>
-
 ---
 
 ### Description:
@@ -34,7 +34,17 @@
 >
 >  -- Trevor Rapp
 
+<br/>
+
 A basic static page built using React. 
+
+<br/>
+
+---
+
+### QUICKSTART GUIDE
+
+To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/survey-form/">https://trrapp12.github.io/survey-form/</a>. 
 
 <br/>
 
