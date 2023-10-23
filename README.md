@@ -74,14 +74,35 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ---
 
-### Project published at: 
+### CHALLENGES I OVERCAME:
 
+* While I did not bring anything new to the course, this was a great opportunity for me to learn the basic principles of props.
 
-[my-app](https://trrapp12.github.io/my-app/)
+<br/>
 
-### More Information:
 ---
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED:
+
+- [X] my own personal motivation to learn and complete the course.
+
+<br/>
+
+---
+
+### ATTRIBUTIONS
+
+* Photo from alex-azabache, used from [Pexels](pexels.com).
 
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
+
+<br/>
+
+---
+
+### YOU CAN FIND ME AT:
+
+
+*For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+
+
