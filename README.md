@@ -44,7 +44,7 @@ A basic static page built using React.
 
 ### QUICKSTART GUIDE
 
-To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/survey-form/">https://trrapp12.github.io/survey-form/</a>. 
+To use the app simply click on the ```View Project``` button or visit <a href="https://trrapp12.github.io/my-app/">https://trrapp12.github.io/my-app/</a>. 
 
 <br/>
 
